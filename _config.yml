@@ -17,8 +17,8 @@ title: KD9KJV
 email: christopher.j.wilson@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Ideas & experiments in electronics, amateur radio, and software
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/KD9KJV" # the subpath of your site, e.g. /blog
+url: "http://sencjw.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kd9kjv
 github_username:  twopoint718
 
