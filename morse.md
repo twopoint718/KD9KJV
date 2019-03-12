@@ -15,5 +15,5 @@ Yeah, right.
 
 {% assign image_files = site.static_files | where: "morse", true %}
 {% for myimage in image_files %}
-  <img src="{{ myimage.path }}" />
+  ![]({{ site.baseurl }}/{{ myimage.path }})
 {% endfor %}
