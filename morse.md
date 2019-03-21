@@ -4,7 +4,7 @@ title: Morse Code
 permalink: /morse/
 ---
 
-I’m learning morse code using the Koch method ~15 wpm I’ll keep this chart updated with my progress.
+I’m learning Morse code using the Koch method ~15 wpm I’ll keep this chart updated with my progress.
 
 As a more recent addition, I've enrolled in [CW Academy](https://cwops.org/cw-academy-2/cw-academy/) at Level 1 (total
 n00b).
