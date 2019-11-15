@@ -12,7 +12,7 @@ I’m learning Morse code using the Koch method <strike>15</strike> 20 wpm I’l
 
 _Update:_ I've switched to mostly using [Learn CW Online](http://lcwo.net) and I've upped my character speed to 20 wpm.
 
-_Update:_ (2019-11-15) Added another blog post about how I'm [back at it]({% post_url 2019-10-28-back-on-the-wagon %}) after taking most of the summer off.
+_Update:_ (2019-10-28) Added another blog post about how I'm [back at it]({% post_url 2019-10-28-back-on-the-wagon %}) after taking most of the summer off.
 
 # CWOps Academy
 
