@@ -4,6 +4,19 @@ title: Morse Code
 permalink: /morse
 ---
 
+## Long Island CW Club (July 2020, ongoing)
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/img/licw_badge.jpg"
+       alt="Long Island CW Club Logo, member number 763">
+  <figcaption>LICW Member #763</figcaption>
+</figure>
+
+I joined the [Long Island CW Club](https://longislandcwclub.org).
+This is a practice-focused club that runs various get-on-the-air classes every week.
+I've been trying to attend the _B1/B2 Review_ and the _Intermediate_ class.
+Both of those focus on learners who've mastered all the characters and are working on upping their speed and instant character recognition.
+
 ## Morse Code Ninja (Spring 2020)
 
 After CWOps and LCWO, my next course will be Morse Code Ninja.
