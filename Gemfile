@@ -7,7 +7,7 @@ gem "minima", "~> 2.0"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-gem "nokogiri", ">= 1.10.8"
+gem "nokogiri", ">= 1.11.4"
 
 gem "rubyzip", ">= 1.3.0"
 
